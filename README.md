@@ -16,7 +16,7 @@ A simple React frontend application to fetch and display stock prices from a sec
 
 1. Clone the repository:
    
-   git clone https://github.com/sanjaaaaaa/stock-price-aggregator.git
+   git clone https://github.com/sanjaaaaaa/1RN22CD048.git
    cd stock-price-aggregator
 
 2.run:
