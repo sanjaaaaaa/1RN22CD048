@@ -24,5 +24,5 @@ npm start
 
 ### if uwant an well structured demo of stock price prediction click on this:
 
-git clone https://github.com/sanjaaaaaa/Stock-Price-predictions-
+git clone https://github.com/sanjaaaaaa/Stock_Price_predictions-.git
 here i have done an user interface for checking the stock price using python.
