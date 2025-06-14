@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>📈 Stock Price Aggregator</h1>
+      <h1 style={styles.title}>Stock Price Aggregator</h1>
 
       <div style={styles.inputGroup}>
         <input
@@ -58,11 +58,11 @@ function App() {
         </button>
       </div>
 
-      {error && <p style={styles.error}>❌ {error}</p>}
+      {error && <p style={styles.error}>{error}</p>}
 
       {data && (
         <div style={styles.resultCard}>
-          <h2>📊 Result</h2>
+          <h2>Result</h2>
           <p><strong>Symbol:</strong> {symbol}</p>
           <pre style={styles.result}>{JSON.stringify(data, null, 2)}</pre>
         </div>
